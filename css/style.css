@@ -1,0 +1,13 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+body #title{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+body #title:hover{
+  color: red;
+}
